@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gender_array">
+    <item>Gender</item>
+    <item>Female</item>
+    <item>Male</item>
+    <item>Prefer not to answer</item>
+    </string-array>
+    <string-array name="category_array">
+        <item>General</item>
+        <item>Diet</item>
+        <item>Health</item>
+        <item>Doctor</item>
+        <item>Medication</item>
+    </string-array>
+
+    <string-array name="doctors">
+        <item>Doctor List</item>
+        <item>Dr. Castillo</item>
+        <item>Dr. Mandin</item>
+        <item>Dr. Desuyo</item>
+    </string-array>
+</resources>

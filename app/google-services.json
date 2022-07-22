@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "285357151210",
+    "project_id": "tracc-it-2c837",
+    "storage_bucket": "tracc-it-2c837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285357151210:android:bc7f821f712da5e43c9893",
+        "android_client_info": {
+          "package_name": "com.example.function"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285357151210-6ot8q176fdlpfb8of1lvaunkelb3ce6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcrLNxzGbDN0Q8_8R7AATnp-Plt_3CWks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285357151210-6ot8q176fdlpfb8of1lvaunkelb3ce6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

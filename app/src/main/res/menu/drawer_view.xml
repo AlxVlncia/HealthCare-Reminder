@@ -1,0 +1,76 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home_fragment"
+            android:checked="true"
+            android:title="Home" />
+    </group>
+
+    <item android:title="Doctors">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_add_doctor_fragment"
+                    android:title="Add Doctor" />
+                <item
+                    android:id="@+id/nav_mod_doctor_fragment"
+                    android:title="Modify Doctor" />
+                <item
+                    android:id="@+id/nav_rm_doctor_fragment"
+                    android:title="Remove Doctor" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="Vitals">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_log_vitals_fragment"
+                    android:title="Log Vitals" />
+                <item
+                    android:id="@+id/nav_mod_vitals_fragment"
+                    android:title="View Past Vitals" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="Medications">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_add_meds_fragment"
+                    android:title="Add Rx" />
+                <item
+                    android:id="@+id/nav_mod_meds_fragment"
+                    android:title="Modify Rx" />
+                <item
+                    android:id="@+id/nav_rm_meds_fragment"
+                    android:title="Remove Rx" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="Diet">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_log_diet_fragment"
+                    android:title="Log Diet info" />
+                <item
+                    android:id="@+id/nav_mod_diet_fragment"
+                    android:title="View Diet info" />
+            </group>
+        </menu>
+    </item>
+    <item android:title="Notes">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_add_notes_fragment"
+                    android:title="Add a Note" />
+                <item
+                    android:id="@+id/nav_view_notes_fragment"
+                    android:title="View Notes" />
+            </group>
+        </menu>
+    </item>
+</menu>
