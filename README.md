@@ -28,14 +28,9 @@ https://youtu.be/0mjs6UgChh0
 
  Log In/Register Page
  
-<br>
-<img src="app/Das.png"></img>
-<br>
-
-<br>
-<img src="app/Das.png"></img>
-<br>
-
+<img src="screenshots/Das.png" height="700"></img>  
+<h3>Register Page</h3>
+<img src="screenshots/Das2.png" height="700"></img>  
 
 
 
