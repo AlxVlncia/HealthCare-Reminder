@@ -26,18 +26,24 @@ https://youtu.be/0mjs6UgChh0
 
 # Application Overview
 
- Log In/Register Page
+Log In/Register Page
+ 
 <img src="app/Das.png" height="700"></img>  
 
 <img src="app/Das2.png" height="700"></img>  
 
- Call and Email Page
+Call and Email Page
+
 <img src="app/Das3.jpg" height="700"></img>  
 
- Alarm/Reminder Page
+
+Alarm/Reminder Page
+
 <img src="app/Das4.jpg" height="700"></img> 
 
- Notes Page 
+ 
+Notes Page 
+
 <img src="app/Das8.jpg" height="700"></img>
 
 <img src="app/Das9.jpg" height="700"></img> 
