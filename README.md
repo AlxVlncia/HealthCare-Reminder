@@ -26,7 +26,7 @@ https://youtu.be/0mjs6UgChh0
 # Application Overview
 
 Log In/Register Page
- 
+ The first time you log on to the system, you must complete the registration process. It is a means of verifying your identity. Once you've registered, you'll use the same login and password to access the system going forward.
 <img src="app/Das.png" height="700"></img>  
 
 <img src="app/Das2.png" height="700"></img>  
