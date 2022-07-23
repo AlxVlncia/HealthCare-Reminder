@@ -18,8 +18,7 @@ This application is an application in which an automatic reminder or alarming sy
 Eulogio "Amang" Rodriguez Insitute of Science and Technology Nagtahan, Sampaloc, Manila, Philippines College of Arts and Sciences
 
 # Course and Subject
-Bachelor of Science in Information Technology
-Mobile Application Development 1
+Bachelor of Science in Information Technology Mobile Application Development 1
 
 # Demo Video
 https://youtu.be/0mjs6UgChh0
